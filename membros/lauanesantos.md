@@ -8,6 +8,10 @@ Tenho 17 anos e sou marombeira
 
 Ensino médio técnico em informática no IFMS Campus Nova Andradina
 
+# Comida Favorita
+
+Lasanha da mamãe
+
 # Tutorial de cambalhota
 
 Cambalhota em 7 passos:
